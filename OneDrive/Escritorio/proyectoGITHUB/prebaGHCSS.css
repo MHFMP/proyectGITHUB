@@ -8,9 +8,22 @@
     background-color: bisque;
     border: 1px solid black;
     border-radius: 12px;
+    display grid;
 
 }
 .title{
     border-bottom: 2px solid black;
     font-family: fantasy;
+}
+
+.nose p:nth-child(2){
+    font-size: larger;
+    color: darkmagenta;
+
+}
+
+.nose p:nth-child(3){
+    text-align: center;
+    color: firebrick;
+
 }
