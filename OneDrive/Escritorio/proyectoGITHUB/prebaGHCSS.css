@@ -1,0 +1,16 @@
+#container {
+    display: grid;
+    justify-content: center;
+    font-family: cursive;
+    margin: 0;
+}
+.nose{
+    background-color: bisque;
+    border: 1px solid black;
+    border-radius: 12px;
+
+}
+.title{
+    border-bottom: 2px solid black;
+    font-family: fantasy;
+}
