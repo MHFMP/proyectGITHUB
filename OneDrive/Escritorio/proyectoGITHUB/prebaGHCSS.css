@@ -27,3 +27,12 @@
     color: firebrick;
 
 }
+
+.boton1{
+    height: 20px;
+    width:80px;
+    border-radius: 12px;
+    color: ivory;
+    background-color: black;
+    cursor: pointer;
+}
