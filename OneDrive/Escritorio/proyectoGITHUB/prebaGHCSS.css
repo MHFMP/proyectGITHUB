@@ -3,7 +3,6 @@
     justify-content: center;
     font-family: cursive;
     margin: 0;
-    background-color: grey;
     height: 1000px;
     place-items:center;
 }
@@ -52,4 +51,7 @@
     color: ivory;
     background-color: black;
     cursor: pointer;
+}
+.img img:nth-child(1){
+    height: 41.6%;
 }
